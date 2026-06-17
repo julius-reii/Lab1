@@ -9,6 +9,7 @@ private:
     string Name;
     int Age;
     string Address;
+    
 public:
 
     void putName(string name)
